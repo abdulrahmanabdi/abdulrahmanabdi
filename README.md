@@ -32,9 +32,12 @@ In my academic journey, I'm consistently enhancing and excelling in vital softwa
 
 
 #
+
 ---
 <!-- ### 📊 Stats-->
-
+<!-- <a href="https://github.com/abdulrahmanabdi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanabdi&layout=compact&theme=vision-friendly-dark"/>
+</a>-->
 <!-- ![Abdulrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrahmanabdi&show_icons=true&theme=gruvbox)-->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=abdulrahmanabdi&theme=gruvbox&border_radius=4.5) -->
