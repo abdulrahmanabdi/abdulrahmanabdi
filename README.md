@@ -2,7 +2,8 @@
 
 **`Digital Craftsman (Developer)`**
 
-A computer science and Engineering student. In my academic journey, I'm consistently enhancing and excelling in vital software engineering principles such as design patterns, algorithms, and data structures.
+A computer science and Engineering student. 
+In my academic journey, I'm consistently enhancing and excelling in vital software engineering principles such as design patterns, algorithms, and data structures.
 
    <p align="left">
       <a href="https://github.com/abdulrahmanabdi?tab=followers">
