@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-A computer science and Engineering student. 
+A computer science and Engineering student. <br>
 In my academic journey, I'm consistently enhancing and excelling in vital software engineering principles such as design patterns, algorithms, and data structures.
 
    <p align="left">
