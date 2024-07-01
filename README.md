@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-SWE <br>
+
 I'm consistently enhancing and excelling in software development and vital software engineering principles.
 
    <p align="left">
