@@ -1,17 +1,11 @@
 # Abdulrahman Yunis
 
-**`Digital Craftsman (Developer)`**
+**`Digital Craftsman`**
 
 
-I'm consistently enhancing and excelling in software development and vital software engineering principles.
+Consistently enhancing and excelling in software development and vital software engineering principles.
 
-   <p align="left">
-      <a href="https://github.com/abdulrahmanabdi?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/abdulrahmanabdi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-     <a href="https://www.linkedin.com/in/abdulrahman-yunis-49445515b/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   </p>
+   
 
 ---
 ### 🧰 Languages and Tools
